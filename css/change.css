@@ -16,7 +16,7 @@ header{background-color:#fff;}
 	.modal-dialog {
 	    max-width: 600px;
 	}
-	.qualities .column p{min-height: 20.625rem;}
+	.qualities .column p{min-height: 22.625rem;}
 	.c-col-20{width: 50%;}
 }
 @media (min-width: 768px) {

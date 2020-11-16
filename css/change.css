@@ -1,3 +1,5 @@
+header{background-color:#fff;}
+.nav-link{color: #262626 !important;}
 .c-con{padding: 0 10%;position: relative;z-index: 999;}
 .c-overflow{text-overflow: -o-ellipsis-lastline;overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 3;line-clamp: 3;-webkit-box-orient: vertical;padding-bottom:0;margin-bottom:1rem;}
 .about-us .counter-column{padding:10px;}

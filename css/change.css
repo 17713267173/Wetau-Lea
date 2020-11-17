@@ -1,3 +1,23 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('iconfont/iconfont.eot');
+  src: url('iconfont/iconfont.eot?#iefix') format('embedded-opentype'),
+      url('iconfont/iconfont.woff2') format('woff2'),
+      url('iconfont/iconfont.woff') format('woff'),
+      url('iconfont/iconfont.ttf') format('truetype'),
+      url('iconfont/iconfont.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 4.125rem;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #fff;
+}
+.c-icon-community{font-size: 4.6875rem;margin-top: -0.3525rem;display: inline-block;}
+.count_icon .iconfont{color: #262626;}
+.qualities .column:hover .iconfont{color: #262626;}
 header{background-color:#fff;}
 .nav-link{color: #262626 !important;}
 .c-con{padding: 0 10%;position: relative;z-index: 999;}
@@ -28,4 +48,8 @@ header{background-color:#fff;}
 @media (min-width: 1100px) {
 	.c-col-20{width: 20%;}
 	.our_team .team-card .description p{min-height:24.375rem;}
+}
+@media (max-width: 1440px) {
+	.iconfont {font-size: 45px;}
+	.c-icon-community{margin-top:-3px;display:inline-block;font-size:3.125rem;}
 }

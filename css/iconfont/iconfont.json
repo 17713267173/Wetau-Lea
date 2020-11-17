@@ -1,0 +1,58 @@
+{
+  "id": "2208504",
+  "name": "网站icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5578180",
+      "name": "专业",
+      "font_class": "zhuanye",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12082040",
+      "name": "基金会icon",
+      "font_class": "jijinhuiicon",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "12158639",
+      "name": "会员",
+      "font_class": "huiyuan",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "12882086",
+      "name": "教育大咖",
+      "font_class": "jiaoyudaka",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "14023192",
+      "name": "社区",
+      "font_class": "shequ",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16230340",
+      "name": "企业",
+      "font_class": "huabanbeifen19",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "17112700",
+      "name": "智库",
+      "font_class": "zhiku",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    }
+  ]
+}
